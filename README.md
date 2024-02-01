@@ -12,6 +12,9 @@ This dataset contains: 3 classes (Setosa, Versicolour, and Virginica) with 50 sa
 # Objective
 The primary objective of this project was to apply machine learning concepts, to classify Iris flowers based on their sepal and petal characteristics. I utilized libraries such as pandas, numpy, matplotlib for data manipulation, analysis, and visualization to gain insights into the dataset and build a logistic regression model for classification.
 
+# Running the Noteboook
+To run this notebook use nbviewer. 
+## https://nbviewer.org/github/JiNx2004/iris-dataset/blob/master/Iris-Dataset.ipynb
 
 
 
