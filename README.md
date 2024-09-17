@@ -10,7 +10,7 @@
 This dataset contains: 3 classes (Setosa, Versicolour, and Virginica) with 50 samples each, and 4 properties about those classes: Sepal Length, Sepal Width, Petal Length, and Petal Width.
 
 # Objective
-The primary objective of this project was to apply machine learning concepts, to classify Iris flowers based on their sepal and petal characteristics. I utilized libraries such as pandas, numpy, matplotlib for data manipulation, analysis, and visualization to gain insights into the dataset and build a logistic regression model for classification.
+The primary objective of this project was to apply machine learning concepts, to classify Iris flowers based on their sepal and petal characteristics. I utilized libraries such as pandas, numpy, matplotlib for data manipulation, analysis, and visualization to gain insights into the dataset and build a logistic regression model for classification. Achieved 92% accuracy.
 
 # Running the Noteboook
 To run this notebook use nbviewer. 
